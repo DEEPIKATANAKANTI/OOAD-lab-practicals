@@ -1,0 +1,25 @@
+#include "traders.h"
+
+// Constructors/Destructors
+//  
+
+traders::traders () {
+initAttributes();
+}
+
+traders::~traders () { }
+
+//  
+// Methods
+//  
+
+
+// Accessor methods
+//  
+
+
+// Other methods
+//  
+
+void traders::initAttributes () {
+}
